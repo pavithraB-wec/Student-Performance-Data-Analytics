@@ -56,5 +56,8 @@ The database `student_analytics` contains a table named `students` with the foll
 
 ---
 
+## Author
 
+Pavithra B
+B.Tech – Information Science and Engineering
 
